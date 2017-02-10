@@ -1,2 +1,2 @@
 # Searching-algorithms
-java program
+searching methods
